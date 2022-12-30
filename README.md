@@ -1,8 +1,8 @@
 # Lobo Shell -- CS450 Project 2
 
 ## Contributors:
-- [Aaron King](github-link)
-- [Joseph](github-link)
+- [Aaron King](https://github.com/aaronlking)
+- [Joseph Henderson](https://github.com/jhendssu)
 - [Gary Singh](https://github.com/Gary-Git)
 - [Owen Mastropietro](https://github.com/OwenMastropietro)
 

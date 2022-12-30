@@ -6,7 +6,7 @@
 - [Gary Singh](https://github.com/Gary-Git)
 - [Owen Mastropietro](https://github.com/OwenMastropietro)
 
-## Instructions To Run:
+## Instructions To Run in project directory terminal:
  1. `$ make run`
  2. `$ make valgrind`
  3. Or you can figure something else out...
